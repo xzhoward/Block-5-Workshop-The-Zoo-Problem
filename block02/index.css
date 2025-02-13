@@ -1,0 +1,24 @@
+img {
+    width: 400px;
+    height: 300px; 
+  }
+
+body {
+    background-color: rgb(183, 165, 111); 
+ }
+
+ h1 {
+    text-decoration:rgb(204, 228, 22) wavy underline;
+    text-align: center; 
+    color: #e7cd5c; 
+ }
+
+ h2 {
+    text-decoration: rgb(204, 228, 22) wavy underline;
+    text-align: center; 
+    color: #e7cd5c; 
+ }
+
+ p {
+    color: hsl(70, 100%, 50%);
+  }
